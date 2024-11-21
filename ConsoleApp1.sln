@@ -8,6 +8,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DoWork", "DoWork\DoWork.csp
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DiscoverParallel", "DiscoverParallel\DiscoverParallel.csproj", "{1FD4BDAA-69B8-43C8-B76D-EDD1D3D57750}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PetitDej", "PetitDej\PetitDej.csproj", "{9D821470-A7DF-4C4F-BCCF-4074868B6078}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FileReaderParallel", "FileReaderParallel\FileReaderParallel.csproj", "{3AFDDF73-A062-4883-8169-CA6772242727}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -30,5 +34,13 @@ Global
 		{1FD4BDAA-69B8-43C8-B76D-EDD1D3D57750}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1FD4BDAA-69B8-43C8-B76D-EDD1D3D57750}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1FD4BDAA-69B8-43C8-B76D-EDD1D3D57750}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9D821470-A7DF-4C4F-BCCF-4074868B6078}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9D821470-A7DF-4C4F-BCCF-4074868B6078}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9D821470-A7DF-4C4F-BCCF-4074868B6078}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9D821470-A7DF-4C4F-BCCF-4074868B6078}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3AFDDF73-A062-4883-8169-CA6772242727}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3AFDDF73-A062-4883-8169-CA6772242727}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3AFDDF73-A062-4883-8169-CA6772242727}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3AFDDF73-A062-4883-8169-CA6772242727}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

@@ -1,0 +1,15 @@
+/Users/thomas/Documents/m2i/m2i_2/parallelisme/ConsoleApp1/PetitDej/bin/Debug/net8.0/PetitDej
+/Users/thomas/Documents/m2i/m2i_2/parallelisme/ConsoleApp1/PetitDej/bin/Debug/net8.0/PetitDej.deps.json
+/Users/thomas/Documents/m2i/m2i_2/parallelisme/ConsoleApp1/PetitDej/bin/Debug/net8.0/PetitDej.runtimeconfig.json
+/Users/thomas/Documents/m2i/m2i_2/parallelisme/ConsoleApp1/PetitDej/bin/Debug/net8.0/PetitDej.dll
+/Users/thomas/Documents/m2i/m2i_2/parallelisme/ConsoleApp1/PetitDej/bin/Debug/net8.0/PetitDej.pdb
+/Users/thomas/Documents/m2i/m2i_2/parallelisme/ConsoleApp1/PetitDej/obj/Debug/net8.0/PetitDej.GeneratedMSBuildEditorConfig.editorconfig
+/Users/thomas/Documents/m2i/m2i_2/parallelisme/ConsoleApp1/PetitDej/obj/Debug/net8.0/PetitDej.AssemblyInfoInputs.cache
+/Users/thomas/Documents/m2i/m2i_2/parallelisme/ConsoleApp1/PetitDej/obj/Debug/net8.0/PetitDej.AssemblyInfo.cs
+/Users/thomas/Documents/m2i/m2i_2/parallelisme/ConsoleApp1/PetitDej/obj/Debug/net8.0/PetitDej.csproj.CoreCompileInputs.cache
+/Users/thomas/Documents/m2i/m2i_2/parallelisme/ConsoleApp1/PetitDej/obj/Debug/net8.0/PetitDej.sourcelink.json
+/Users/thomas/Documents/m2i/m2i_2/parallelisme/ConsoleApp1/PetitDej/obj/Debug/net8.0/PetitDej.dll
+/Users/thomas/Documents/m2i/m2i_2/parallelisme/ConsoleApp1/PetitDej/obj/Debug/net8.0/refint/PetitDej.dll
+/Users/thomas/Documents/m2i/m2i_2/parallelisme/ConsoleApp1/PetitDej/obj/Debug/net8.0/PetitDej.pdb
+/Users/thomas/Documents/m2i/m2i_2/parallelisme/ConsoleApp1/PetitDej/obj/Debug/net8.0/PetitDej.genruntimeconfig.cache
+/Users/thomas/Documents/m2i/m2i_2/parallelisme/ConsoleApp1/PetitDej/obj/Debug/net8.0/ref/PetitDej.dll

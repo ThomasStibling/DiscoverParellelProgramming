@@ -1,0 +1,15 @@
+/Users/thomas/Documents/m2i/m2i_2/parallelisme/ConsoleApp1/DiscoverParallel/bin/Debug/net8.0/DiscoverParallel
+/Users/thomas/Documents/m2i/m2i_2/parallelisme/ConsoleApp1/DiscoverParallel/bin/Debug/net8.0/DiscoverParallel.deps.json
+/Users/thomas/Documents/m2i/m2i_2/parallelisme/ConsoleApp1/DiscoverParallel/bin/Debug/net8.0/DiscoverParallel.runtimeconfig.json
+/Users/thomas/Documents/m2i/m2i_2/parallelisme/ConsoleApp1/DiscoverParallel/bin/Debug/net8.0/DiscoverParallel.dll
+/Users/thomas/Documents/m2i/m2i_2/parallelisme/ConsoleApp1/DiscoverParallel/bin/Debug/net8.0/DiscoverParallel.pdb
+/Users/thomas/Documents/m2i/m2i_2/parallelisme/ConsoleApp1/DiscoverParallel/obj/Debug/net8.0/DiscoverParallel.GeneratedMSBuildEditorConfig.editorconfig
+/Users/thomas/Documents/m2i/m2i_2/parallelisme/ConsoleApp1/DiscoverParallel/obj/Debug/net8.0/DiscoverParallel.AssemblyInfoInputs.cache
+/Users/thomas/Documents/m2i/m2i_2/parallelisme/ConsoleApp1/DiscoverParallel/obj/Debug/net8.0/DiscoverParallel.AssemblyInfo.cs
+/Users/thomas/Documents/m2i/m2i_2/parallelisme/ConsoleApp1/DiscoverParallel/obj/Debug/net8.0/DiscoverParallel.csproj.CoreCompileInputs.cache
+/Users/thomas/Documents/m2i/m2i_2/parallelisme/ConsoleApp1/DiscoverParallel/obj/Debug/net8.0/DiscoverParallel.sourcelink.json
+/Users/thomas/Documents/m2i/m2i_2/parallelisme/ConsoleApp1/DiscoverParallel/obj/Debug/net8.0/DiscoverParallel.dll
+/Users/thomas/Documents/m2i/m2i_2/parallelisme/ConsoleApp1/DiscoverParallel/obj/Debug/net8.0/refint/DiscoverParallel.dll
+/Users/thomas/Documents/m2i/m2i_2/parallelisme/ConsoleApp1/DiscoverParallel/obj/Debug/net8.0/DiscoverParallel.pdb
+/Users/thomas/Documents/m2i/m2i_2/parallelisme/ConsoleApp1/DiscoverParallel/obj/Debug/net8.0/DiscoverParallel.genruntimeconfig.cache
+/Users/thomas/Documents/m2i/m2i_2/parallelisme/ConsoleApp1/DiscoverParallel/obj/Debug/net8.0/ref/DiscoverParallel.dll

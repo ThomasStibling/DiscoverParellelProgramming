@@ -10,12 +10,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("DiscoverParallel")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("FileReaderParallel")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+32c69466cdff0cd5ee9e416e906c6ec3819a3989")]
-[assembly: System.Reflection.AssemblyProductAttribute("DiscoverParallel")]
-[assembly: System.Reflection.AssemblyTitleAttribute("DiscoverParallel")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyProductAttribute("FileReaderParallel")]
+[assembly: System.Reflection.AssemblyTitleAttribute("FileReaderParallel")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Généré par la classe MSBuild WriteCodeFragment.
